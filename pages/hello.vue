@@ -65,7 +65,7 @@ const testError = () => {
         <p>加载中，gogogo</p>
       </template>
     </client-only>
-
+    <p>test</p>
     <!-- <nuxt-island name="blog"></nuxt-island> -->
     <blog></blog>
   </div>
