@@ -66,6 +66,7 @@ const testError = () => {
       </template>
     </client-only>
     <p>test</p>
+    <p>test2</p>
     <!-- <nuxt-island name="blog"></nuxt-island> -->
     <blog></blog>
   </div>
